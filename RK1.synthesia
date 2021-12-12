@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="5f5b75e9e422dc2f3b262adc4a0ae951" Title="001-Ding-Dong" Bookmarks="1,Dingdong" />
-    <Song UniqueId="5f3259b7cbc937bdab4dd7f97c58b340" Title="002-Kuckuck" />
-    <Song UniqueId="49bdf00f8e6d64c43ab1fa7a9e87cf05" Title="003-Die-Feuerwehr" />
-    <Song UniqueId="c8da99f590076ce29610ebcb50e58553" Title="004-Das-Veilchen" />
-    <Song UniqueId="61e6b111b828e1aa0e68a6b752a89b00" Title="005-Mondgesicht" />
-    <Song UniqueId="e56aadafd6e0878225b2f24e07606a53" Title="006-Die-Nachtigall" />
-    <Song UniqueId="4c950cd1b8316d85edab794a4fda32e0" Title="007-Liebe-Sonne" />
-    <Song UniqueId="11b63ba3c4dffd87d1099df2971cb87a" Title="008-Der-Zwerg" />
-    <Song UniqueId="f5ce1a9a4b5b6583261a4d50e54b4cac" Title="009-Hasenlied" />
-    <Song UniqueId="e8b83c07a0294dff42da2dc5ab5606d3" Title="010-Ringel-ringel-Reihe" />
+    <Song UniqueId="5f5b75e9e422dc2f3b262adc4a0ae951" Title="001-Ding-Dong" HandParts="d41d8cd98f00b204e9800998ecf8427e;5dd29b1aa72015946ece0511d5f5d6a9;5dd29b1aa72015946ece0511d5f5d6a9" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="5f3259b7cbc937bdab4dd7f97c58b340" Title="002-Kuckuck" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="49bdf00f8e6d64c43ab1fa7a9e87cf05" Title="003-Die-Feuerwehr" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="c8da99f590076ce29610ebcb50e58553" Title="004-Das-Veilchen" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="61e6b111b828e1aa0e68a6b752a89b00" Title="005-Mondgesicht" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="e56aadafd6e0878225b2f24e07606a53" Title="006-Die-Nachtigall" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="4c950cd1b8316d85edab794a4fda32e0" Title="007-Liebe-Sonne" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="11b63ba3c4dffd87d1099df2971cb87a" Title="008-Der-Zwerg" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="f5ce1a9a4b5b6583261a4d50e54b4cac" Title="009-Hasenlied" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="e8b83c07a0294dff42da2dc5ab5606d3" Title="010-Ringel-ringel-Reihe" Parts="t0:RA" Difficulty="1" />
   </Songs>
   <Groups>
     <Group Name="Russische Klavierschule I">
