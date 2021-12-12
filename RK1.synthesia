@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="5f5b75e9e422dc2f3b262adc4a0ae951" Title="001-Ding-Dong" HandParts="d41d8cd98f00b204e9800998ecf8427e;5dd29b1aa72015946ece0511d5f5d6a9;5dd29b1aa72015946ece0511d5f5d6a9" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="5f5b75e9e422dc2f3b262adc4a0ae951" Title="001-Ding-Dong" HandParts="d41d8cd98f00b204e9800998ecf8427e;5dd29b1aa72015946ece0511d5f5d6a9;5dd29b1aa72015946ece0511d5f5d6a9" Parts="t0:RA" Difficulty="1" FingerHints="2---78--21s90" />
     <Song UniqueId="5f3259b7cbc937bdab4dd7f97c58b340" Title="002-Kuckuck" Parts="t0:RA" Difficulty="1" />
     <Song UniqueId="49bdf00f8e6d64c43ab1fa7a9e87cf05" Title="003-Die-Feuerwehr" Parts="t0:RA" Difficulty="1" />
     <Song UniqueId="c8da99f590076ce29610ebcb50e58553" Title="004-Das-Veilchen" Parts="t0:RA" Difficulty="1" />
@@ -10,7 +10,17 @@
     <Song UniqueId="4c950cd1b8316d85edab794a4fda32e0" Title="007-Liebe-Sonne" Parts="t0:RA" Difficulty="1" />
     <Song UniqueId="11b63ba3c4dffd87d1099df2971cb87a" Title="008-Der-Zwerg" Parts="t0:RA" Difficulty="1" />
     <Song UniqueId="f5ce1a9a4b5b6583261a4d50e54b4cac" Title="009-Hasenlied" Parts="t0:RA" Difficulty="1" />
-    <Song UniqueId="e8b83c07a0294dff42da2dc5ab5606d3" Title="010-Ringel-ringel-Reihe" Parts="t0:RA" Difficulty="1" />
+    <Song UniqueId="e8b83c07a0294dff42da2dc5ab5606d3" Title="010-Ringel-ringel-Reihe" Parts="t0:RA" Difficulty="1" HandParts="d41d8cd98f00b204e9800998ecf8427e;5ad6b7bd3e470d8d85713c32e07c3c55;5ad6b7bd3e470d8d85713c32e07c3c55" />
+    <Song UniqueId="0afe74c8d6a02756c7f2dc267db937bf" Title="011-Alle-meine-Entchen" />
+    <Song UniqueId="58fd3e8eaca3bf7a4fe00149f82fb3b7" Title="012-Haenschen-klein" />
+    <Song UniqueId="5a73ec753d0f8990326f9f48cf410aa5" Title="013-Kuckuck-kuckuck-rufts-aus-dem-Wald" />
+    <Song UniqueId="e37f52b567fa18cbf2cbc8fcb0d504f8" Title="014-Es-war-eine-Mutter" Parts="t0:RA" />
+    <Song UniqueId="a8b13a94be4ee6748b294e9cc075e24c" Title="015-Die-alte-Wachtel" />
+    <Song UniqueId="139b740c90ed7924e54bafa8045fb8a3" Title="016-Die-kleine-Birke" />
+    <Song UniqueId="f0f574ba05ef835d8984e900f6f2feb2" Title="017-Das-Haeschen" FingerHints="t0: 1-2-4&#xA;t1: m5: 2-3-4&#xA;" HandParts="f9e9643eacc289e914a2a4974c937852;294314151c31b53c9eb8b60eabdbbb43;b622c357b8743e395a0c6ff768577192" Parts="t0:RA t1:LA" />
+    <Song UniqueId="5af31c5ff8325be5893a2457e3cade55" Title="018-Der-Regen" FingerHints="4-3 m4:1&#xA;t1: m5: 2-3-25" HandParts="ba28dd2e2a087d25e19feb819d1dd709;09733c59b86298b7d86213eb989e14bc;7fbe69af3507ded1ceb8f2bf20ef3f90" Parts="t0:RA t1:LA" />
+    <Song UniqueId="c157025f72cac36fb750a21060bc8101" Title="019-Ist-ein-Mann-in-Brunn-gefallen" FingerHints="6---0-0 t1: 5---1---5" HandParts="536be4021afefb21a08402b88954c0f6;b683f96d550acc422ca2074c6837c9c6;3ecfc8acee17c132a45e32c9d3632280" Parts="t0:RA t1:LA" />
+    <Song UniqueId="ac63d48a01aacd9251e25b7fea42361f" Title="020-Haenschen-klein" FingerHints="97-86-97-86-7 m13:9 m14:8&#xA;t1: 5---1--531-54 m15: 531-5" />
   </Songs>
   <Groups>
     <Group Name="Russische Klavierschule I">
@@ -24,6 +34,16 @@
       <Song UniqueId="11b63ba3c4dffd87d1099df2971cb87a" />
       <Song UniqueId="f5ce1a9a4b5b6583261a4d50e54b4cac" />
       <Song UniqueId="e8b83c07a0294dff42da2dc5ab5606d3" />
+      <Song UniqueId="0afe74c8d6a02756c7f2dc267db937bf" />
+      <Song UniqueId="58fd3e8eaca3bf7a4fe00149f82fb3b7" />
+      <Song UniqueId="5a73ec753d0f8990326f9f48cf410aa5" />
+      <Song UniqueId="e37f52b567fa18cbf2cbc8fcb0d504f8" />
+      <Song UniqueId="a8b13a94be4ee6748b294e9cc075e24c" />
+      <Song UniqueId="139b740c90ed7924e54bafa8045fb8a3" />
+      <Song UniqueId="f0f574ba05ef835d8984e900f6f2feb2" />
+      <Song UniqueId="5af31c5ff8325be5893a2457e3cade55" />
+      <Song UniqueId="c157025f72cac36fb750a21060bc8101" />
+      <Song UniqueId="ac63d48a01aacd9251e25b7fea42361f" />
     </Group>
   </Groups>
 </SynthesiaMetadata>
